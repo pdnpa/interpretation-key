@@ -34,11 +34,11 @@ module.exports = {
     lastUpdated: false,
     nav: [
       {
-        text: 'Guide',
+        text: 'Landscape Categories',
         link: '/guide/',
       },
       {
-        text: 'Config',
+        text: 'Useful links',
         link: '/config/'
       },
       {
@@ -47,9 +47,17 @@ module.exports = {
       }
     ],
     sidebar: {
-      '/guide/': [
+      '/Definitions/': [
         {
-          title: 'Guide',
+          title: 'Wood and forest land',
+          collapsable: false,
+          children: [
+            '',
+            'using-vue',
+          ]
+        },
+        {
+          title: 'Grassland',
           collapsable: false,
           children: [
             '',
