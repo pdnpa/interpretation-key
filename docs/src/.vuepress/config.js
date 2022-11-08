@@ -54,7 +54,7 @@ module.exports = {
           children: [
             'C1 Broadleaved high forest',
             'C2 Coniferous high forest ',
-            'C3 Mixed high forest'
+            'C3 Mixed high forest',
             'C4 Scrub',
             'C5 Clear felled/new plantings in forest areas'
           ]
