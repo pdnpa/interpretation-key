@@ -4,7 +4,7 @@ module.exports = {
   /**
    * Ref：https://v1.vuepress.vuejs.org/config/#title
    */
-  title: 'Vuepress Docs Boilerplate',
+  title: 'Land Cover Interpretation Key',
   /**
    * Ref：https://v1.vuepress.vuejs.org/config/#description
    */
@@ -32,104 +32,95 @@ module.exports = {
     docsDir: '',
     editLinkText: '',
     lastUpdated: false,
-    nav: [
-      {
-        text: 'Landscape Categories',
-        link: '/guide/',
-      },
-      {
-        text: 'Useful links',
-        link: '/config/'
-      },
-      {
-        text: 'VuePress',
-        link: 'https://v1.vuepress.vuejs.org'
-      }
-    ],
-    sidebar: {
-      '/Definitions/': [
+    sidebar: [
         {
-          title: 'C Wood and forest land',
+          title: 'Introduction',
           collapsable: false,
           children: [
-            'C1 Broadleaved high forest',
-            'C2 Coniferous high forest ',
-            'C3 Mixed high forest',
-            'C4 Scrub',
-            'C5 Clear felled/new plantings in forest areas'
+            '/docs/introduction'
+          ]
+        },
+        {
+          title: 'C Wood and forest land',
+          collapsable: true,
+          children: [
+            '/docs/forest/broadleaved-high',
+            '/docs/forest/coniferous-high',
+            '/docs/forest/mixed-high',
+            '/docs/forest/scrub',
+            '/docs/forest/clear-felled',
           ]
         },
         {
           title: 'D Moor and Heathland',
-          collapsable: false,
+          collapsable: true,
           children: [
-            'D1 Upland heath',
-            'D2 Upland grass moor (b) grass moor',
-            'D2 Upland grass moor (b) blanket peat grass moor',
-            'D3 Bracken',
-            'D4 Unenclosed lowland areas (a) rough grassland',
-            'D4 Unenclosed lowland areas (b) heath',
-            'D6 Upland mosaics (a) heath/grass',
-            'D6 Upland mosaics (b) heath/bracken',
-            'D6 Upland mosaics (c) heath/blanket peat',
-            'D7 Eroded area (a) peat',
-            'D7 Eroded area (b) mineral soils',
-            'D8 Coastal heath'
+            '/docs/moorland/upland-heath',
+            '/docs/moorland/blanket-peat-grass-moor',
+            '/docs/moorland/upland-grass-moor',
+            '/docs/moorland/bracken',
+            '/docs/moorland/unenclosed-rough-grassland',
+            '/docs/moorland/unenclosed-heath',
+            '/docs/moorland/upland-mosaics-heath-grass',
+            '/docs/moorland/upland-mosaics-heath-bracken',
+            '/docs/moorland/upland-mosaics-heath-blanket-peat',
+            '/docs/moorland/eroded-peat',
+            '/docs/moorland/eroded-mineral-soils',
+            '/docs/moorland/coastal-heath',
           ]
         },
         {
           title: 'E Agro-pastoral land',
-          collapsable: false,
+          collapsable: true,
           children: [
-            'E1 Cultivated land',
-            'E2 Grassland (a) improved pasture',
-            'E2 Grassland (b) rough pasture'
+            '/docs/agro-pastoral/cultivated',
+            '/docs/agro-pastoral/improved',
+            '/docs/agro-pastoral/rough',
           ]
         },
         {
           title: 'F Water and wetland',
-          collapsable: false,
+          collapsable: true,
           children: [
-            'F1 Open water, coatal',
-            'F2, Open water, inland',
-            'F3 Wetland vegetation (a) peat bog',
-            'F3 Wetland vegetation (b) freshwater marsh',
-            'F3 Wetland vegetation (c) saltmarsh'
+            '/docs/water-wetland/open',
+            '/docs/water-wetland/inland',
+            '/docs/water-wetland/peat-bog',
+            '/docs/water-wetland/marsh',
+            '/docs/water-wetland/saltmarsh',
           ]
         },
         {
           title: 'G Rock and coastal land',
-          collapsable: false,
+          collapsable: true,
           children: [
-            'G2 Bare rock (a) inland',
-            'G2 Bare rock (b) coastal',
-            'G3 Other coastal features (a) dunes',
-            'G3 Other coastal features (b) sand beach',
-            'G3 Other coastal features (c) shingle beach',
-            'G3 Other coastal features (d) mudflats'
+            '/docs/rock/inland',
+            '/docs/rock/coastal',
+            '/docs/rock/dunes',
+            '/docs/rock/sand-beach',
+            '/docs/rock/shingle-beach',
+            '/docs/rock/mudflats',
           ]
         },
         {
           title: 'H Developed land',
-          collapsable: false,
+          collapsable: true,
           children: [
-            'H1 Built-up land (a) urban area',
-            'H1 Built-up land (b) major transport route',
-            'H2 Quarries, mineral working and derelict land (a) quarries and mineral working',
-            'H2 Quarries, mineral working and derelict land (b) derelict land',
-            'H3 Isolated rural developments (a) farmsteads',
-            'H3 Isolated rural developments (b) other'
+            '/docs/urban/urban',
+            '/docs/urban/transport',
+            '/docs/urban/quarries',
+            '/docs/urban/derelict',
+            '/docs/urban/farmsteads',
+            '/docs/urban/other',
           ]
         },
         {
           title: 'I Unclassified land',
-          collapsable: false,
+          collapsable: true,
           children: [
-            'I Unclassified land'
+            '/docs/noclass/unclassified',
           ]
         }
       ],
-    }
   },
 
   /**

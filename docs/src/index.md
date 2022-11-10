@@ -3,7 +3,7 @@ home: true
 heroImage: https://v1.vuepress.vuejs.org/hero.png
 tagline: A guide to land cover types
 actionText: Quick Start →
-actionLink: /guide/
+actionLink: /docs/introduction
 features:
 - title: Feature 1 Title
   details: Feature 1 Description
