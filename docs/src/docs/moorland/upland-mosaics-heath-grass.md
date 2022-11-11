@@ -1,1 +1,1 @@
-# D6 Upland mosaics (a) heath and grass
+# D6 Upland mosaics (a) heath/grass
