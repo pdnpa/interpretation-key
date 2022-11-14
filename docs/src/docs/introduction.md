@@ -30,7 +30,7 @@ This 1991 Countryside Commission report published the results of monitoring of l
 ### D Moor and heathland
 
 * D1 Upland heath
-* 2 Upland grass moor (a) blanket peat grass moor
+* D2 Upland grass moor (a) blanket peat grass moor
 * D2 Upland grass moor (b) grass moor
 * D3 Bracken
 * D4 Unenclosed lowland areas (a) rough grassland
@@ -50,7 +50,7 @@ This 1991 Countryside Commission report published the results of monitoring of l
 ### F Water and wetland
 
 * F1 Open water, coastal
-* F2, Open water, inland
+* F2 Open water, inland
 * F3 Wetland vegetation (a) peat bog
 * F3 Wetland vegetation (b) freshwater marsh
 * F3 Wetland vegetation (c) saltmarsh
