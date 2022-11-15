@@ -7,23 +7,12 @@ const reportConfig =
         "sidebar": [
             {
                 "title": "Introduction",
-                "collapsable": false,
-                "children": [
-                    {
-                        "type": "html",
-                        "text": "Introduction",
-                        "path": "/docs/introduction",
-                        "title": "Introduction",
-                        "pdnpa_id": "f45da94b-8c08-43aa-8869-94d8ff03dc7a",
-                        "pdnpa_parent": "f2e12ada-f616-4733-8fdb-885f29f51a04",
-                        "pdnpa_is_folder": 0
-                    }
-                ],
                 "text": "Introduction",
-                "type": "folder",
+                "type": "html",
+                "path": "/docs/introduction",
                 "pdnpa_id": "f2e12ada-f616-4733-8fdb-885f29f51a04",
                 "pdnpa_parent": 0,
-                "pdnpa_is_folder": 1
+                "pdnpa_is_folder": 0
             },
             {
                 "title": "C Wood and forest land",
@@ -79,7 +68,8 @@ const reportConfig =
                 "type": "folder",
                 "pdnpa_id": "b82a34e5-7fcf-4c76-9fb8-73fa7342d3e7",
                 "pdnpa_parent": 0,
-                "pdnpa_is_folder": 1
+                "pdnpa_is_folder": 1,
+                "base_path": "/docs/forest"
             },
             {
                 "title": "D Moor and Heathland",
@@ -198,7 +188,8 @@ const reportConfig =
                 "type": "folder",
                 "pdnpa_id": "ba825282-db86-407f-b8a2-0a345357051d",
                 "pdnpa_parent": 0,
-                "pdnpa_is_folder": 1
+                "pdnpa_is_folder": 1,
+                "base_path": "/docs/moorland"
             },
             {
                 "title": "E Agro-pastoral land",
@@ -236,7 +227,8 @@ const reportConfig =
                 "type": "folder",
                 "pdnpa_id": "1d9a1fce-ce16-4438-a932-a956256b706f",
                 "pdnpa_parent": 0,
-                "pdnpa_is_folder": 1
+                "pdnpa_is_folder": 1,
+                "base_path": "/docs/agro-pastoral"
             },
             {
                 "title": "F Water and wetland",
@@ -292,7 +284,8 @@ const reportConfig =
                 "type": "folder",
                 "pdnpa_id": "d5bc9bbe-7fe0-455c-b677-18b28d0ce265",
                 "pdnpa_parent": 0,
-                "pdnpa_is_folder": 1
+                "pdnpa_is_folder": 1,
+                "base_path": "/docs/water-wetland"
             },
             {
                 "title": "G Rock and coastal land",
@@ -357,7 +350,8 @@ const reportConfig =
                 "type": "folder",
                 "pdnpa_id": "b0048856-2041-483d-8477-cbddb1a696e7",
                 "pdnpa_parent": 0,
-                "pdnpa_is_folder": 1
+                "pdnpa_is_folder": 1,
+                "base_path": "/docs/rock"
             },
             {
                 "title": "H Developed land",
@@ -422,7 +416,8 @@ const reportConfig =
                 "type": "folder",
                 "pdnpa_id": "5598e75d-1d3c-47ad-b28b-83527bd77591",
                 "pdnpa_parent": 0,
-                "pdnpa_is_folder": 1
+                "pdnpa_is_folder": 1,
+                "base_path": "/docs/urban"
             },
             {
                 "title": "I Unclassified land",
@@ -442,7 +437,8 @@ const reportConfig =
                 "type": "folder",
                 "pdnpa_id": "856650bc-dc97-4f1f-81f3-a486a38f086a",
                 "pdnpa_parent": 0,
-                "pdnpa_is_folder": 1
+                "pdnpa_is_folder": 1,
+                "base_path": "/docs/noclass"
             }
         ]
     }
