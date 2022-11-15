@@ -1,0 +1,53 @@
+.homepage
+  // @todo Add background img here
+  background-size: cover;
+  min-height: 97vh;
+
+.sidebar
+  padding-top 9.26rem
+
+.sidebar-sub-header {
+  a {
+    margin-left: 2.4rem
+    margin-left: 3.4rem;
+    padding-right: 2rem;
+    padding-top: .2rem;
+    padding-bottom: .2rem;
+    font-size: .89rem;
+  }
+}
+
+@media screen and (min-width: 980px) {
+  img[src$='#img-right'] {
+    margin-top: -5rem;
+    margin-bottom: 2rem;
+    float: right;
+    max-width: 50% !important;
+    padding-left: 50px;
+    background: #fff;
+  }
+}
+.sidebar-group-items .sidebar-sub-headers > li a,
+.sidebar-group-items .sidebar-sub-headers > li .sidebar-heading {
+  padding-left: 10px;
+}
+.sidebar-group-items .sidebar-sub-headers > li:first-child a,
+.sidebar-group-items .sidebar-sub-headers > li:first-child .sidebar-heading {
+  margin-top: 8px;
+}
+
+.no-content-top-spacing {
+  .theme-default-content:not(.custom) > *:first-child {
+    margin-top: 0.6rem;
+  }
+  img[src$='#img-right'] {
+    margin-top: 0;
+  }
+}
+
+.featured-text {
+  font-size: 1.4rem;
+  margin-bottom: 2.6rem;
+  margin-top: 2rem;
+  max-width: 80%;
+}
