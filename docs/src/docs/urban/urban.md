@@ -12,4 +12,6 @@ H1 Built-up land - Two sub-categories are identified:
 
 **H1b Major transport routes** - transport routes which cover a significant area, defined as multi- carriageway roads, functioning multi-track railways, railyards, and airports. Grass verges obviously associated with the transport route are included.
 
-This data has been sourced from Ordnance Survey: https://www.ordnancesurvey.co.uk/blog/all-about-os-mastermap-topography-layer
+**H1c Minor transport routes** - transport routes that do not qualify as H1b (e.g., roads, streets). 
+
+This data has been sourced from Ordnance Survey: [https://www.ordnancesurvey.co.uk/blog/all-about-os-mastermap-topography-layer](https://www.ordnancesurvey.co.uk/blog/all-about-os-mastermap-topography-layer)
