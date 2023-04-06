@@ -1,4 +1,8 @@
-# D6 Upland mosaics (c) heath/blanket peat
+---
+autoTitle: false
+---
+
+# D6 Upland mosaics: Upland heath/grass moor mosaic (a) Upland heath/grass moor mosaic on blanket bog/peat soil (c)
 
 
 *Photo: *
