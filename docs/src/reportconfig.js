@@ -302,15 +302,6 @@ const reportConfig =
                     },
                     {
                         "type": "html",
-                        "text": "Dunes",
-                        "path": "/docs/rock/dunes",
-                        "title": "Dunes",
-                        "pdnpa_id": "fad08818-a674-43e0-b1e6-dcea88d13783",
-                        "pdnpa_parent": "b0048856-2041-483d-8477-cbddb1a696e7",
-                        "pdnpa_is_folder": 0
-                    },
-                    {
-                        "type": "html",
                         "text": "Sand Beach",
                         "path": "/docs/rock/sand-beach",
                         "title": "Sand Beach",
