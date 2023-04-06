@@ -302,15 +302,6 @@ const reportConfig =
                     },
                     {
                         "type": "html",
-                        "text": "Sand Beach",
-                        "path": "/docs/rock/sand-beach",
-                        "title": "Sand Beach",
-                        "pdnpa_id": "90fd1ad1-b843-4867-8371-5cef175858cf",
-                        "pdnpa_parent": "b0048856-2041-483d-8477-cbddb1a696e7",
-                        "pdnpa_is_folder": 0
-                    },
-                    {
-                        "type": "html",
                         "text": "Shingle Beach",
                         "path": "/docs/rock/shingle-beach",
                         "title": "Shingle Beach",
