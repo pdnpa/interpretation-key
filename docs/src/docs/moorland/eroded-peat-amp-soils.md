@@ -1,4 +1,8 @@
-# D7 Eroded area (a) peat
+---
+autoTitle: false
+---
+
+# D7 Eroded area: peat (a) mineral soils (b)
 
 
 *Photo: *
