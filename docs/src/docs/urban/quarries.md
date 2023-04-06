@@ -11,3 +11,5 @@ H2 Quarries, mineral working and derelict land - Two sub-categories are identifi
 **H2a Quarries and mineral workings** which are still in regular use.
 
 **H2b Derelict land - disused quarries and mineral workings**, and other significantly disturbed land which would need reclamation before it could be used.
+
+This data has been sourced from Ordnance Survey: [https://www.ordnancesurvey.co.uk/blog/all-about-os-mastermap-topography-layer](https://www.ordnancesurvey.co.uk/blog/all-about-os-mastermap-topography-layer)
