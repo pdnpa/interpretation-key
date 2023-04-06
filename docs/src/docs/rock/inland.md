@@ -2,7 +2,7 @@
 autoTitle: false
 ---
 
-# G2 Bare rock (a) inland
+# G2 Bare rock inland (a) 
 
 ## Definition of landscape category
 
