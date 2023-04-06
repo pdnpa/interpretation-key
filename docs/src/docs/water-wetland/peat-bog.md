@@ -2,7 +2,7 @@
 autoTitle: false
 ---
 
-# F3 Wetland vegetation Modified/active peat bog (a) 
+# F3 Wetland vegetation: Modified/active peat bog (a) 
 
 ![broadleaf](./img/broadleaf.jpg)
 *Photo: Chris Gilbert*
