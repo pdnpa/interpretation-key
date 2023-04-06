@@ -2,7 +2,7 @@
 autoTitle: false
 ---
 
-# H2 Quarries, mineral working and derelict land (a) quarries and mineral working  (b) derelict land
+# H2 Quarries, mineral working and derelict land:  quarries and mineral working (a) derelict land (b)
 
 ## Definition of landscape category
 
