@@ -122,15 +122,6 @@ const reportConfig =
                     },
                     {
                         "type": "html",
-                        "text": "Unenclosed Heath",
-                        "path": "/docs/moorland/unenclosed-heath",
-                        "title": "Unenclosed Heath",
-                        "pdnpa_id": "58ef6f89-d081-4633-8fbb-612e4bc1139c",
-                        "pdnpa_parent": "ba825282-db86-407f-b8a2-0a345357051d",
-                        "pdnpa_is_folder": 0
-                    },
-                    {
-                        "type": "html",
                         "text": "Upland Mosaics",
                         "path": "/docs/moorland/upland-mosaics",
                         "title": "Upland Mosaics",
