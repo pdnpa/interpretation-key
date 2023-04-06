@@ -24,4 +24,4 @@ Grown from seed or planted seedlings and consisting of large, tall mostly decidu
 These are the ancient, semi- natural woodlands and include the deciduous plantation woodland plantings which meet the criteria.
 
 ## Useful links
-* **Woodland Trust** [https://www.woodlandtrust.org.uk/trees-woods-and-wildlife/habitats/broadleaved-woodland/](https://www.woodlandtrust.org.uk/trees-woods-and-wildlife/habitats/broadleaved-woodland/)
+* [Woodland Trust: Broadleaved Woodland](https://www.woodlandtrust.org.uk/trees-woods-and-wildlife/habitats/broadleaved-woodland/)
