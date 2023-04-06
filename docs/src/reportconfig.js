@@ -95,15 +95,6 @@ const reportConfig =
                     },
                     {
                         "type": "html",
-                        "text": "Upland Grass Moor",
-                        "path": "/docs/moorland/upland-grass-moor",
-                        "title": "Upland Grass Moor",
-                        "pdnpa_id": "50be6170-4dad-4e01-9d07-d0058ddbe50d",
-                        "pdnpa_parent": "ba825282-db86-407f-b8a2-0a345357051d",
-                        "pdnpa_is_folder": 0
-                    },
-                    {
-                        "type": "html",
                         "text": "Bracken",
                         "path": "/docs/moorland/bracken",
                         "title": "Bracken",
