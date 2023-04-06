@@ -1,4 +1,8 @@
-# F3 Wetland vegetation (b) freshwater marsh
+---
+autoTitle: false
+---
+
+# F3 Wetland vegetation (d) wet grassland and rush pasture
 
 
 *Photo: *
