@@ -383,15 +383,6 @@ const reportConfig =
                         "pdnpa_id": "8c817dc9-1207-4d68-b852-58609783e1ea",
                         "pdnpa_parent": "5598e75d-1d3c-47ad-b28b-83527bd77591",
                         "pdnpa_is_folder": 0
-                    },
-                    {
-                        "type": "html",
-                        "text": "Other",
-                        "path": "/docs/urban/other",
-                        "title": "Other",
-                        "pdnpa_id": "1a8db6e3-4273-44b2-93ac-3b7b62a93513",
-                        "pdnpa_parent": "5598e75d-1d3c-47ad-b28b-83527bd77591",
-                        "pdnpa_is_folder": 0
                     }
                 ],
                 "text": "H Developed land",
