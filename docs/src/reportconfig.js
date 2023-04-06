@@ -254,9 +254,9 @@ const reportConfig =
                     },
                     {
                         "type": "html",
-                        "text": "Marsh",
-                        "path": "/docs/water-wetland/marsh",
-                        "title": "Marsh",
+                        "text": "Rush Pasture",
+                        "path": "/docs/water-wetland/rush-pasture",
+                        "title": "Rush Pasture",
                         "pdnpa_id": "2657fd12-cd73-43a7-a3d5-1e3c74300074",
                         "pdnpa_parent": "d5bc9bbe-7fe0-455c-b677-18b28d0ce265",
                         "pdnpa_is_folder": 0
