@@ -1,4 +1,8 @@
-# F3 Wetland vegetation (a) peat bog
+---
+autoTitle: false
+---
+
+# F3 Wetland vegetation (a) Modified/active peat bog
 
 
 *Photo: *
