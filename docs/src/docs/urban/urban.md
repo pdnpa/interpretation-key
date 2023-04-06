@@ -6,7 +6,7 @@ autoTitle: false
 
 ## Definition of landscape category
 
-H1 Built-up land - Two sub-categories are identified:
+H1 Built-up land - Three sub-categories are identified:
 
 **H1a Urban land - areas of buildings, including gardens, car parks, etc.**, and urban open spaces such as parks, playing fields, etc. Any settlement consisting of more than one group of buildings will be included.
 
