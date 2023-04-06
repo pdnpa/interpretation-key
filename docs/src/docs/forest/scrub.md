@@ -1,3 +1,7 @@
+---
+autoTitle: false
+---
+
 # C4 Scrub
 
 ![scrub](./img/scrub.jpg)
@@ -14,14 +18,16 @@ Areas with diffused boundaries with less than 2O% cover by area of mature timber
 
 must be less than 3.5 m high although shrubs such as Blackthorn (Prunus spinosa) and Hawthorn (Crataegus spp) may be higher.
 
-## UK Definition of habitat
-
-* **Woodland Trust scrub** [https://www.suffolkwildlifetrust.org/conservationadvice/meadows-and-grassland/grassland-and-scrub](https://www.suffolkwildlifetrust.org/conservationadvice/meadows-and-grassland/grassland-and-scrub)
-
 ## Aerial Definition
 
 ![map](./img/map.jpg)
 
 ## In the Peak District
 
-Scrub and hedges have not been mapped or surveyed adequately to calculate their extent in the PDNP. Further research is needed on both the extent and condition of scrub and hedges, in particular the need to identify potentially important sites.
+Many other species are included in the category and may often be dominant. In the Peak District Gorse (Ulex europæus), Broom (Cytisus scoparius), Bramble/blackberry (Rubus fructicosus agg.), Willow less than 5m tall (Salix. spp.) are components. Grey Willow taller than 5m is often included as scrub here (as in JNCC phase1 survey) but not currently in this schema as the method does not resolve species.
+
+Much of the scrub in the Peak District is Gorse as can be seen by the dark green small bushes in the main image above. On aerial imagery gorse can be difficult to distinguish from the heather (Calluna vulgaris & Erica Cinerea); using shadows and a careful comparison of colour/structure is required although if flowering it is unmistakable (see fig. 2f & 2g). Scrub can also contain an understory of dwarf shrubs and ground flora. Scrub can occupy the transition between established woodland and other habitats as part of the structure of woodland edge vegetation and wooded pastures. If land management objectives change such as the exclusion, or reduction in densities, of grazing animals scrub will form as a transitional(seral) stage in characteristic successional or plagioclimax plant communities such as scrub pasture and woodlands given time.
+
+## Useful links
+
+* [Wildlife Trust: Scrub](https://www.suffolkwildlifetrust.org/conservationadvice/meadows-and-grassland/grassland-and-scrub)
