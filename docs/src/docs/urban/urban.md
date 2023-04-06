@@ -14,4 +14,6 @@ H1 Built-up land - Three sub-categories are identified:
 
 **H1c Minor transport routes** - transport routes that do not qualify as H1b (e.g., roads, streets). 
 
+&&H1d Urban greenspace** - this includes intensively managed green areas within urban areas such as sport fields, playgrounds and golf courses.
+
 This data has been sourced from Ordnance Survey: [https://www.ordnancesurvey.co.uk/blog/all-about-os-mastermap-topography-layer](https://www.ordnancesurvey.co.uk/blog/all-about-os-mastermap-topography-layer)
