@@ -2,7 +2,7 @@
 autoTitle: false
 ---
 
-# D1 Upland heath /D1b Upland Heath blanket bog/peat soil
+# D1 Upland heath (a) Upland Heath blanket bog/peat soil (b)
 
 
 *Photo: *
