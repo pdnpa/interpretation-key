@@ -113,15 +113,6 @@ const reportConfig =
                     },
                     {
                         "type": "html",
-                        "text": "Unenclosed Rough Grassland",
-                        "path": "/docs/moorland/unenclosed-rough-grassland",
-                        "title": "Unenclosed Rough Grassland",
-                        "pdnpa_id": "c10891d9-269a-4a1a-892e-37f933f733b1",
-                        "pdnpa_parent": "ba825282-db86-407f-b8a2-0a345357051d",
-                        "pdnpa_is_folder": 0
-                    },
-                    {
-                        "type": "html",
                         "text": "Upland Mosaics",
                         "path": "/docs/moorland/upland-mosaics",
                         "title": "Upland Mosaics",
