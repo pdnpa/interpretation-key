@@ -13,12 +13,14 @@ DI Upland heath - Areas with greater than 80% cover of heather (Calluna vulgaris
 
 Characteristically found on acid heathland soils, steep rocky hillsides and crags, and peat-covered moorlands it may be burned in patches or strips for grouse moor. Areas which have been burnt, but which it can be assumed will regenerate as heath, are included.
 
-## UK Definition of habitat
-
-* **Woodland Trust scrub** [https://www.suffolkwildlifetrust.org/conservationadvice/meadows-and-grassland/grassland-and-scrub](https://www.suffolkwildlifetrust.org/conservationadvice/meadows-and-grassland/grassland-and-scrub)
-
 ## Aerial Definition
 
 
 
 ## In the Peak District
+Upland heath, away from specific environmental conditions, is a habitat created and maintained by some form of management (an anthropogenic plagioclimax community) often over 1000’s of years. It is found on wet acidic and nutrient poor soils - usually on shallow peat or low nutrient content podzolised soils. Heather dominated moorland is a common plagioclimax community in the PDNP, partly as a result of management for red grouse shooting. Grouse moor management in the form of rotational burning keeps heather in it’s fast growing ‘pioneer; and ‘building’ phases as the dominant vegetation in large swathes of upland heathland. IN other areas bilberry can dominate as well as form co-dominant stands with heather.  D1 is also a key component of the large areas of semi natural upland moorland mosaics. 
+
+## Useful links
+
+* [https://reports.peakdistrict.gov.uk/ccva/docs/assessments/habitats/moorland.html(https://reports.peakdistrict.gov.uk/ccva/docs/assessments/habitats/moorland.html)
+* [https://www.peakdistrict.gov.uk/looking-after/biodiversity/biodiversity-action-plan/peak-district-habitats/upland-heathland](https://www.peakdistrict.gov.uk/looking-after/biodiversity/biodiversity-action-plan/peak-district-habitats/upland-heathland)
