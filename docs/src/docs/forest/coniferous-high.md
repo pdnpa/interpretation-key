@@ -17,6 +17,9 @@ Coniferous high forest - Usually grown from planted seedlings consisting of larg
 
 ![map](./img/map.jpg)
 
+* [Google photo sphere Macclesfield Forest](https://goo.gl/maps/JdXjgJih88fhdv1A6) 
+
+
 ## In the Peak District
 
 There is less coniferous woodland in the White Peak than the Dark or South West Peak. Larger plantations hold the biggest area of coniferous woodland in the Macclesfield Forest and Goyt Valley in the South West Peak and the in the dark Peak around the Howden/ Derwent/ Ladybower reservoir sequence and the reservoirs on the Sheffield border.
