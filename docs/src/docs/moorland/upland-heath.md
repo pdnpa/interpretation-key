@@ -27,3 +27,4 @@ Upland heath, away from specific environmental conditions, is a habitat created 
 
 * [Peak District Climate Change Vulnrebility Assessment: Moorland](https://reports.peakdistrict.gov.uk/ccva/docs/assessments/habitats/moorland.html)
 * [Peak District National Park: BAP Habitats Upland Heathland](https://www.peakdistrict.gov.uk/looking-after/biodiversity/biodiversity-action-plan/peak-district-habitats/upland-heathland)
+* [Wildlife Turst: Heath and Moorland](https://www.wildlifetrusts.org/habitats/heathland-and-moorland)
