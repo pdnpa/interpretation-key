@@ -4,8 +4,8 @@ autoTitle: false
 
 # D7 Eroded area: peat (a) mineral soils (b)
 
-
-*Photo: *
+![broadleaf](./img/broadleaf.jpg)
+*Photo: Chris Gilbert*
 
 ## Definition of landscape category
 
