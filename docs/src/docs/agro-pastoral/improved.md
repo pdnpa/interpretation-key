@@ -23,4 +23,4 @@ The PDNP is roughly 50% grassland, making grasslands its main habitat. However, 
 
 ## Useful links
 
-* [https://reports.peakdistrict.gov.uk/sotpr/docs/wildlife-habitat/habitats.html#grassland](https://reports.peakdistrict.gov.uk/sotpr/docs/wildlife-habitat/habitats.html#grassland)
+* [Peak District National Park State of the Park Report: Grasslands](https://reports.peakdistrict.gov.uk/sotpr/docs/wildlife-habitat/habitats.html#grassland)
