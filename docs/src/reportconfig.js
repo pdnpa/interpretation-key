@@ -260,15 +260,6 @@ const reportConfig =
                         "pdnpa_id": "2657fd12-cd73-43a7-a3d5-1e3c74300074",
                         "pdnpa_parent": "d5bc9bbe-7fe0-455c-b677-18b28d0ce265",
                         "pdnpa_is_folder": 0
-                    },
-                    {
-                        "type": "html",
-                        "text": "Saltmarsh",
-                        "path": "/docs/water-wetland/saltmarsh",
-                        "title": "Saltmarsh",
-                        "pdnpa_id": "88cd4f63-cb83-408a-adae-75ebeaae8ba6",
-                        "pdnpa_parent": "d5bc9bbe-7fe0-455c-b677-18b28d0ce265",
-                        "pdnpa_is_folder": 0
                     }
                 ],
                 "text": "F Water and wetland",
