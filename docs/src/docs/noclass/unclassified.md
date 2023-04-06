@@ -1,17 +1,9 @@
-# I Unclassified land
+---
+autoTitle: false
+---
 
-*Photo: *
+# I Unclassified land
 
 ## Definition of landscape category
 
-Clear felled/new plantings in forest areas - Areas with hard boundaries, generally integral with stands of high forest and which have recently been felled or planted. Evidence of logging, rowing up of trash and drainage may be present.
-
-## UK Definition of habitat
-
-* **Woodland Trust scrub** [https://www.suffolkwildlifetrust.org/conservationadvice/meadows-and-grassland/grassland-and-scrub](https://www.suffolkwildlifetrust.org/conservationadvice/meadows-and-grassland/grassland-and-scrub)
-
-## Aerial Definition
-
-
-
-## In the Peak District
+Areas which cannot be legitimately included in any other category, e.g.  areas which cannot be reliably identified on the imagery due to cloud, shadow or military restrictions etc..
