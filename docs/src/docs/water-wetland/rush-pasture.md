@@ -2,7 +2,7 @@
 autoTitle: false
 ---
 
-# F3 Wetland vegetation (d) wet grassland and rush pasture
+# F3 Wetland vegetation wet grassland and rush pasture (d)
 
 
 *Photo: *
