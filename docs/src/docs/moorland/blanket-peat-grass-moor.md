@@ -4,7 +4,8 @@ autoTitle: false
 
 # D2 Moorland: Upland grass moor (b) Upland grass moor on blanket bog/peat soil (d) 
 
-*Photo: *
+![broadleaf](./img/broadleaf.jpg)
+*Photo: Chris Gilbert*
 
 ## Definition of landscape category
 
