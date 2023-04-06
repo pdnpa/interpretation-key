@@ -377,15 +377,6 @@ const reportConfig =
                     },
                     {
                         "type": "html",
-                        "text": "Derelict",
-                        "path": "/docs/urban/derelict",
-                        "title": "Derelict",
-                        "pdnpa_id": "34852809-471b-4fda-80d3-f9c132bc6a82",
-                        "pdnpa_parent": "5598e75d-1d3c-47ad-b28b-83527bd77591",
-                        "pdnpa_is_folder": 0
-                    },
-                    {
-                        "type": "html",
                         "text": "Farmsteads",
                         "path": "/docs/urban/farmsteads",
                         "title": "Farmsteads",
