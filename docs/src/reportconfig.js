@@ -197,15 +197,6 @@ const reportConfig =
                 "children": [
                     {
                         "type": "html",
-                        "text": "Cultivated",
-                        "path": "/docs/agro-pastoral/cultivated",
-                        "title": "Cultivated",
-                        "pdnpa_id": "78b24ed0-27b6-430c-a781-b9c2e48e11ba",
-                        "pdnpa_parent": "1d9a1fce-ce16-4438-a932-a956256b706f",
-                        "pdnpa_is_folder": 0
-                    },
-                    {
-                        "type": "html",
                         "text": "Improved",
                         "path": "/docs/agro-pastoral/improved",
                         "title": "Improved",
