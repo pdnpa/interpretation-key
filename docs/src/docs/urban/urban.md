@@ -1,7 +1,8 @@
+---
+autoTitle: false
+---
+
 # H1 Built-up land (a) urban area
-
-
-*Photo: *
 
 ## Definition of landscape category
 
@@ -11,12 +12,4 @@ H1 Built-up land - Two sub-categories are identified:
 
 **H1b Major transport routes** - transport routes which cover a significant area, defined as multi- carriageway roads, functioning multi-track railways, railyards, and airports. Grass verges obviously associated with the transport route are included.
 
-## UK Definition of habitat
-
-* **Woodland Trust scrub** [https://www.suffolkwildlifetrust.org/conservationadvice/meadows-and-grassland/grassland-and-scrub](https://www.suffolkwildlifetrust.org/conservationadvice/meadows-and-grassland/grassland-and-scrub)
-
-## Aerial Definition
-
-
-
-## In the Peak District
+This data has been sourced from Ordnance Survey: https://www.ordnancesurvey.co.uk/blog/all-about-os-mastermap-topography-layer
