@@ -131,15 +131,6 @@ const reportConfig =
                     },
                     {
                         "type": "html",
-                        "text": "Upland Mosaics Heath Grass",
-                        "path": "/docs/moorland/upland-mosaics-heath-grass",
-                        "title": "Upland Mosaics Heath Grass",
-                        "pdnpa_id": "c0777248-7ea7-4849-bdb4-b1591049a840",
-                        "pdnpa_parent": "ba825282-db86-407f-b8a2-0a345357051d",
-                        "pdnpa_is_folder": 0
-                    },
-                    {
-                        "type": "html",
                         "text": "Upland Mosaics Heath Blanket Peat",
                         "path": "/docs/moorland/upland-mosaics-heath-blanket-peat",
                         "title": "Upland Mosaics Heath Blanket Peat",
