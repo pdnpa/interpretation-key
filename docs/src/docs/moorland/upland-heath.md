@@ -18,7 +18,8 @@ D1a and D1b are identified and selected by [Peaty Soils Location (England)](http
 ## Aerial Definition
 
 
-* [Google photo sphere](https://goo.gl/maps/LLR5qYkbKaQk7Gdf9) 
+* [Google photo sphere Bamford Edge](https://goo.gl/maps/LLR5qYkbKaQk7Gdf9) Looking East a heather dominated moorland with evidence of moorland management of cutting heather
+* 
 ## In the Peak District
 Upland heath, away from specific environmental conditions, is a habitat created and maintained by some form of management (an anthropogenic plagioclimax community) often over 1000’s of years. It is found on wet acidic and nutrient poor soils - usually on shallow peat or low nutrient content podzolised soils. Heather dominated moorland is a common plagioclimax community in the PDNP, partly as a result of management for red grouse shooting. Grouse moor management in the form of rotational burning keeps heather in it’s fast growing ‘pioneer; and ‘building’ phases as the dominant vegetation in large swathes of upland heathland. IN other areas bilberry can dominate as well as form co-dominant stands with heather.  D1 is also a key component of the large areas of semi natural upland moorland mosaics. 
 
