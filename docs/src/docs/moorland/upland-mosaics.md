@@ -4,8 +4,8 @@ autoTitle: false
 
 # D6 Upland mosaics: Upland heath/grass moor mosaic (a) Upland Heath/Bracken (b) Upland heath/grass moor mosaic on blanket bog/peat soil (c)
 
-
-*Photo: *
+![broadleaf](./img/broadleaf.jpg)
+*Photo: Chris Gilbert*
 
 ## Definition of landscape category
 
