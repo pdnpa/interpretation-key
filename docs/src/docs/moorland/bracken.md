@@ -4,8 +4,8 @@ autoTitle: false
 
 # D3 Bracken
 
-
-*Photo: *
+![broadleaf](./img/broadleaf.jpg)
+*Photo: Chris Gilbert*
 
 ## Definition of landscape category
 
