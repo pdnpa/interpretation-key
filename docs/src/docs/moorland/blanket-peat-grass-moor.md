@@ -2,7 +2,7 @@
 autoTitle: false
 ---
 
-# D2 Upland grass moor (b) Upland grass moor blanket bog/peat soil (d) 
+# D2 Moorland: Upland grass moor (b) Upland grass moor on blanket bog/peat soil (d) 
 
 *Photo: *
 
