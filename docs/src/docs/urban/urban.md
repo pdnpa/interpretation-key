@@ -2,7 +2,7 @@
 autoTitle: false
 ---
 
-# H1 Built-up land (a) urban area
+# H1 Built-up land urban area (a)
 
 ## Definition of landscape category
 
