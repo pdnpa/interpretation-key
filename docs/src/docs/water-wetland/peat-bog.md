@@ -4,8 +4,8 @@ autoTitle: false
 
 # F3 Wetland vegetation (a) Modified/active peat bog
 
+** Photo**
 
-*Photo: *
 
 ## Definition of landscape category
 
