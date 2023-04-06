@@ -2,7 +2,7 @@
 autoTitle: false
 ---
 
-# E2 Grassland (a) improved pasture
+# E2 Grassland improved pasture (a)
 
 
 *Photo: *
