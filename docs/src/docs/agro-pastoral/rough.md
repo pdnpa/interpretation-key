@@ -15,7 +15,7 @@ E2 Grassland - Areas which show evidence of being enclosed for stock control pur
 
 ## Aerial Definition
 
-* [Google photo sphere](https://goo.gl/maps/FMZgZzHGakCBLSUd7) 
+* [Google photo sphere Stoney Middleton](https://goo.gl/maps/FMZgZzHGakCBLSUd7) Looking South East the steeper slope shows rougher grassland with more species diversity and longer stems of grass. The area is 'less managed'. 
 
 ## In the Peak District
 The PDNP is roughly 50% grassland, making grasslands its main habitat. Rough grassland can have many forms including some hay meadows (see also E2a), rank (uncut) grassland and poor semi improved grasslands. For the purposes of this schema they are grouped together as time of year of the Aerial Photography makes distinguishing between these habitats very difficult or impossible. 
@@ -25,8 +25,6 @@ Enclosed acid grassland tends to be dominated by common bent and fescue, and can
 Species-rich semi-improved grasslands are grasslands that have had only a small amount of improvement. Many retain some widespread but declining flowering plants that can tolerate a small level of nutrient enrichment or slight changes in cutting and grazing regime, such as red clover or common vetch. These semi-improved grasslands have the highest potential to be restored to priority habitats such as lowland meadows.
 
 Lowland meadows include enclosed pastures and hay meadows. Those that are valuable are the traditionally managed ones, rich in wildflowers, and are an important asset to our wildlife, culture and natural beauty. These grasslands support a variety of bees, butterflies and many other invertebrates, both common and rare. They also support breeding birds such as meadow pipit and skylark. Meadows are nearly impossible to distinguish from improved grasslands during spring/early summer from aerial photography (see fig. 13). Also included here are most of the limestone (calcareous) grassland and calaminarian grassland (including lead rakes) though this habitat is small in comparison to other rough grassland types. 
-
-## Useful links
 
 ## Useful links
 * [Peak District National Park State of the Park Report: Grasslands](https://reports.peakdistrict.gov.uk/sotpr/docs/wildlife-habitat/habitats.html#grassland) 
