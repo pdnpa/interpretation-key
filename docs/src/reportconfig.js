@@ -299,15 +299,6 @@ const reportConfig =
                         "pdnpa_id": "9a43ce80-afa8-460b-a9b4-bce7157889a8",
                         "pdnpa_parent": "b0048856-2041-483d-8477-cbddb1a696e7",
                         "pdnpa_is_folder": 0
-                    },
-                    {
-                        "type": "html",
-                        "text": "Mudflats",
-                        "path": "/docs/rock/mudflats",
-                        "title": "Mudflats",
-                        "pdnpa_id": "a80f7654-c6e4-406c-a880-f6bbc9b4eb1e",
-                        "pdnpa_parent": "b0048856-2041-483d-8477-cbddb1a696e7",
-                        "pdnpa_is_folder": 0
                     }
                 ],
                 "text": "G Rock and coastal land",
