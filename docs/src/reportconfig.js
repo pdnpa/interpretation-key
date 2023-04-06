@@ -164,15 +164,6 @@ const reportConfig =
                         "pdnpa_id": "e7a02a01-a2c5-4d42-b694-67a235daf3a7",
                         "pdnpa_parent": "ba825282-db86-407f-b8a2-0a345357051d",
                         "pdnpa_is_folder": 0
-                    },
-                    {
-                        "type": "html",
-                        "text": "Eroded Mineral Soils",
-                        "path": "/docs/moorland/eroded-mineral-soils",
-                        "title": "Eroded Mineral Soils",
-                        "pdnpa_id": "ecfc9b1c-93e5-4bec-80cb-55a9cdab45f8",
-                        "pdnpa_parent": "ba825282-db86-407f-b8a2-0a345357051d",
-                        "pdnpa_is_folder": 0
                     }
                 ],
                 "text": "D Moor and Heathland",
