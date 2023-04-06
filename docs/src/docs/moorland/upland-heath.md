@@ -13,6 +13,8 @@ DI Upland heath - Areas with greater than 80% cover of heather (Calluna vulgaris
 
 Characteristically found on acid heathland soils, steep rocky hillsides and crags, and peat-covered moorlands it may be burned in patches or strips for grouse moor. Areas which have been burnt, but which it can be assumed will regenerate as heath, are included.
 
+D1a and D1b are identified and selected by [Peaty Soils Location (England)](https://naturalengland-defra.opendata.arcgis.com/datasets/1e5a1cdb2ab64b1a94852fb982c42b52_0/explore?location=52.763272%2C-2.506216%2C8.29)
+
 ## Aerial Definition
 
 
