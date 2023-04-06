@@ -27,6 +27,6 @@ Degraded/modified blanket bog and associated peatlands are more widespread than 
 After a long period of loss and degradation, the amount of blanket bog in the PDNP is currently relatively stable. The issue remains the condition of the blanket bog. A combination of damaging factors, including peat cutting, air pollution, drainage, managed burning and wildfires, has resulted in blanket bog that is drier than it should be, with gullying and erosion in many areas. The work of the Moors for the Future partnership and others has begun to reverse this trend, by revegetating the exposed peat and rewetting the moor (see D2, D6 & D7). Peat bog in the aerial imagery is easily recognisable as a result of its damaged state. Eroded drainage gullys form dendritic systems across the peat. Restoration works are visible in some locations and greener/wetter conditions can be seen where gulleys have been blocked to slow water flows/ loss of peat and re-establish bog vegetation. 
 
 ## Useful links
-* [https://www.peakdistrict.gov.uk/looking-after/biodiversity/biodiversity-action-plan/peak-district-habitats/blanket-bog](https://www.peakdistrict.gov.uk/looking-after/biodiversity/biodiversity-action-plan/peak-district-habitats/blanket-bog)) 
+* [Peak District National Park: BAP Habitat](https://www.peakdistrict.gov.uk/looking-after/biodiversity/biodiversity-action-plan/peak-district-habitats/blanket-bog)) 
 
-* [https://reports.peakdistrict.gov.uk/ccva/docs/assessments/habitats/blanketbog.html](https://reports.peakdistrict.gov.uk/ccva/docs/assessments/habitats/blanketbog.html)
+* [Peak District Climate Change Vulnerability Assessment: Blanket Bog](https://reports.peakdistrict.gov.uk/ccva/docs/assessments/habitats/blanketbog.html)
