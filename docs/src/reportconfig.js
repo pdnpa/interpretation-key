@@ -302,15 +302,6 @@ const reportConfig =
                     },
                     {
                         "type": "html",
-                        "text": "Shingle Beach",
-                        "path": "/docs/rock/shingle-beach",
-                        "title": "Shingle Beach",
-                        "pdnpa_id": "bddd00b2-1ada-41d6-863e-32c4a959572e",
-                        "pdnpa_parent": "b0048856-2041-483d-8477-cbddb1a696e7",
-                        "pdnpa_is_folder": 0
-                    },
-                    {
-                        "type": "html",
                         "text": "Mudflats",
                         "path": "/docs/rock/mudflats",
                         "title": "Mudflats",
