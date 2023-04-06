@@ -2,7 +2,7 @@
 autoTitle: false
 ---
 
-# D1 Upland heath (a) Upland Heath on blanket bog/peat soil (b)
+# D1 Moorland: Upland heath (a) Upland Heath on blanket bog/peat soil (b)
 
 
 *Photo: *
