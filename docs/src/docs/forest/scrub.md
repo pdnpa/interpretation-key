@@ -22,6 +22,9 @@ must be less than 3.5 m high although shrubs such as Blackthorn (Prunus spinosa)
 
 ![map](./img/map.jpg)
 
+* [Google photo sphere Hope Valley](https://goo.gl/maps/k7x5UGnMhxnboyw38) Looking West patches of green Gorse scrub seen on the hillside. 
+
+
 ## In the Peak District
 
 Many other species are included in the category and may often be dominant. In the Peak District Gorse (Ulex europæus), Broom (Cytisus scoparius), Bramble/blackberry (Rubus fructicosus agg.), Willow less than 5m tall (Salix. spp.) are components. Grey Willow taller than 5m is often included as scrub here (as in JNCC phase1 survey) but not currently in this schema as the method does not resolve species.
