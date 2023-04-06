@@ -16,6 +16,7 @@ E2 Grassland - Areas which show evidence of being enclosed for stock control pur
 ## Aerial Definition
 
 
+* [Google photo sphere](https://goo.gl/maps/Dy239Bc2VAn9D5CH9) 
 
 ## In the Peak District
 The PDNP is roughly 50% grassland, making grasslands its main habitat. However, most grassland has been agriculturally improved (an estimated 72% of the total grassland habitats). Such management removes most broad-leaved plants, furthers dominance by grasses and produces a poor environment for wildlife. This is in line with global trends, with temperate grasslands being considered the most altered terrestrial ecosystem on the planet. This is one of the most variable classes in the imagery as the closely reflect past and recent management (see SK1776 for examples of the variation).
