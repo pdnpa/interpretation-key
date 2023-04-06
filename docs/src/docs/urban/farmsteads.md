@@ -6,7 +6,7 @@ autoTitle: false
 
 ## Definition of landscape category
 
-**H3 Isolated rural developments** - developments consisting of only one group  of buildings but covering an area greater than O.25 ha. Two sub-categories are identified: 
+H3 Isolated rural developments - developments consisting of only one group  of buildings but covering an area greater than O.25 ha. Two sub-categories are identified: 
 
 **H3a Farmsteads** - a farmhouse and associated farm buildings and 
 
