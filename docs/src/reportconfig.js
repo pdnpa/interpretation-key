@@ -368,15 +368,6 @@ const reportConfig =
                     },
                     {
                         "type": "html",
-                        "text": "Transport",
-                        "path": "/docs/urban/transport",
-                        "title": "Transport",
-                        "pdnpa_id": "7cd46dd6-9b38-48a4-b82b-b714c4ef6c54",
-                        "pdnpa_parent": "5598e75d-1d3c-47ad-b28b-83527bd77591",
-                        "pdnpa_is_folder": 0
-                    },
-                    {
-                        "type": "html",
                         "text": "Quarries",
                         "path": "/docs/urban/quarries",
                         "title": "Quarries",
