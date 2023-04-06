@@ -236,15 +236,6 @@ const reportConfig =
                 "children": [
                     {
                         "type": "html",
-                        "text": "Open",
-                        "path": "/docs/water-wetland/open",
-                        "title": "Open",
-                        "pdnpa_id": "2059ab02-2776-4fbe-9bb8-9528a6b2c393",
-                        "pdnpa_parent": "d5bc9bbe-7fe0-455c-b677-18b28d0ce265",
-                        "pdnpa_is_folder": 0
-                    },
-                    {
-                        "type": "html",
                         "text": "Inland",
                         "path": "/docs/water-wetland/inland",
                         "title": "Inland",
