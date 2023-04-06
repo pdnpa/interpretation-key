@@ -140,15 +140,6 @@ const reportConfig =
                     },
                     {
                         "type": "html",
-                        "text": "Upland Mosaics Heath Bracken",
-                        "path": "/docs/moorland/upland-mosaics-heath-bracken",
-                        "title": "Upland Mosaics Heath Bracken",
-                        "pdnpa_id": "1fd593e4-cffd-4907-83df-9cab60620605",
-                        "pdnpa_parent": "ba825282-db86-407f-b8a2-0a345357051d",
-                        "pdnpa_is_folder": 0
-                    },
-                    {
-                        "type": "html",
                         "text": "Upland Mosaics Heath Blanket Peat",
                         "path": "/docs/moorland/upland-mosaics-heath-blanket-peat",
                         "title": "Upland Mosaics Heath Blanket Peat",
