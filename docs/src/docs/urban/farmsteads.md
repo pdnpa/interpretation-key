@@ -2,7 +2,7 @@
 autoTitle: false
 ---
 
-# H3 Isolated rural developments (a) farmsteads (b) other
+# H3 Isolated rural developments: farmsteads (a) other (b)
 
 ## Definition of landscape category
 
