@@ -173,15 +173,6 @@ const reportConfig =
                         "pdnpa_id": "ecfc9b1c-93e5-4bec-80cb-55a9cdab45f8",
                         "pdnpa_parent": "ba825282-db86-407f-b8a2-0a345357051d",
                         "pdnpa_is_folder": 0
-                    },
-                    {
-                        "type": "html",
-                        "text": "Coastal Heath",
-                        "path": "/docs/moorland/coastal-heath",
-                        "title": "Coastal Heath",
-                        "pdnpa_id": "11241d87-178c-462f-847a-56c5d56a53c7",
-                        "pdnpa_parent": "ba825282-db86-407f-b8a2-0a345357051d",
-                        "pdnpa_is_folder": 0
                     }
                 ],
                 "text": "D Moor and Heathland",
