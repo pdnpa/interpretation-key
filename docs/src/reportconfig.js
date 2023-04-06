@@ -302,15 +302,6 @@ const reportConfig =
                     },
                     {
                         "type": "html",
-                        "text": "Coastal",
-                        "path": "/docs/rock/coastal",
-                        "title": "Coastal",
-                        "pdnpa_id": "5bbb8812-8831-49ab-a342-a2974682349a",
-                        "pdnpa_parent": "b0048856-2041-483d-8477-cbddb1a696e7",
-                        "pdnpa_is_folder": 0
-                    },
-                    {
-                        "type": "html",
                         "text": "Dunes",
                         "path": "/docs/rock/dunes",
                         "title": "Dunes",
