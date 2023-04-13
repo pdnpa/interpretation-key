@@ -1,5 +1,6 @@
 ---
 autoTitle: 'false'
+toc: 'false'
 ---
 
 # D3 Bracken
@@ -14,7 +15,7 @@ D3 Bracken - Areas having at least an 80% cover of bracken (Pteridium aquilinum)
 An invasive species, characteristically found on steep slopes extending along valley sides. Very variable in appearance depending on time of year. Up to June it is identifiable from the presence of last years residue of dead plant material, having a characteristic russet-brown colour. After June it appears green and bushy.
 
 ## Aerial Definition
-
+![fig10](./img/fig10.png)
 
 * [Google photo sphere Bamford Edge](https://goo.gl/maps/MwT4bNXzyECD5gSF7 ) Showing bracken is summer with mature fronds
 * * [Google photo sphere Three Shires Head](https://goo.gl/maps/MwT4bNXzyECD5gSF7 ) Showing bracken in winter died back to orange/brown 
