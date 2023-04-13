@@ -1,5 +1,6 @@
 ---
 autoTitle: 'false'
+toc: 'false'
 ---
 
 # F3 Wetland vegetation: wet grassland and rush pasture (d)
@@ -15,6 +16,7 @@ F3 Wetland vegetation - Areas of vegetation which are controlled by the permanen
 
 ## Aerial Definition
 
+![fig16](./img/fig16.png)
 
 * [Google photo sphere Mam Tor](https://goo.gl/maps/Keo9Eu7tB3Bvfi3a7) Large areas of rush pasture and purple moor grass. Can often be found and apprears 'wetter' and more dense in scrapes and gullies in the landscape.
 
