@@ -1,11 +1,11 @@
 ---
-autoTitle: false
+autoTitle: 'false'
 ---
 
 # C4 Scrub
 
-![scrub](./img/scrub.jpg)
-*Photo: Chris Gilbert*
+![scrub](./img/gorse-thicket.jpg)
+*Photo: Woodlands.co.uk*
 
 ## Definition of landscape category
 
