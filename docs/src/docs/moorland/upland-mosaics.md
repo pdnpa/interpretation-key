@@ -1,5 +1,6 @@
 ---
 autoTitle: 'false'
+toc: 'false'
 ---
 
 # D6 Upland mosaics: Upland heath/grass moor mosaic (a) Upland Heath/Bracken (b) Upland heath/grass moor mosaic on blanket bog/peat soil (c)
@@ -13,10 +14,9 @@ D6 Upland mosaics - Areas of a mix of fragmented vegetation forming mosaics defi
 
 Three sub-categories are identified: **D6a Upland mosaics: Upland heath/grass moor mosaic**, **D6b Upland heath/bracken (on peat soils?)** and **D6c Upland heath/grass moor mosaic on blanket bog/peat soil**. The boundary with heath will be drawn where heath species comprise more than 80% of the cover and with the other categories where they in turn constitute more than 80% of the cover.
 
-
-
 ## Aerial Definition
 
+![fig11](./img/fig11.png)
 
 * [Google photo sphere Curbur Edge](https://goo.gl/maps/LLR5qYkbKaQk7Gdf9) D6a/c Looking East on Moorlands howing areas of heather of varying clump and within patch plot sizes intersected with upland acid grassland. D6b Looking West on the slope below the cliff edge Bracken died back to orange/bwon intersected with Heather.
 
