@@ -4,7 +4,7 @@ autoTitle: 'false'
 
 # C2 Coniferous high forest
 
-![coniferous](./img/coniferous.jpg)
+![coniferous](./img/c2.png)
 *Photo: Google Maps*
 
 ## Definition of landscape category
