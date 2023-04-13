@@ -18,6 +18,7 @@ D1a and D1b are identified and selected by [Peaty Soils Location (England)](http
 
 ## Aerial Definition
 
+![fig8](./img/fig8.png)
 
 * [Google photo sphere Bamford Edge](https://goo.gl/maps/LLR5qYkbKaQk7Gdf9) Looking East a heather dominated moorland with evidence of moorland management of cutting heather
 
