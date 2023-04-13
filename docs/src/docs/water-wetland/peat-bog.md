@@ -1,5 +1,6 @@
 ---
 autoTitle: 'false'
+toc: 'false'
 ---
 
 # F3 Wetland vegetation: Modified/active peat bog (a) 
@@ -17,7 +18,7 @@ F3 Wetland vegetation - Areas of vegetation which are controlled by the permanen
 
 ## Aerial Definition
 
-
+![fig15](./img/fig15.png)
 
 ## In the Peak District
 There is approximately 19,700 ha of blanket bog in the PDNP, the vast majority of which (89%) is in the Dark Peak and nearly all is in a degraded and damaged state and under restoration management. About 9% of UK blanket bog is found within the PDNP. Almost the entire area is designated SAC, SPA and SSSI, recognising the national and international importance of this habitat. The SPA designation is due to the importance of moorlands in supporting internationally important breeding populations of golden plover, merlin and dunlin. The Dark Peak SSSI designation also features other bird species: meadow pipit, red grouse, curlew, twite, ring ouzel, wheatear and whinchat. A range of other important birds as well as invertebrates, mountain hare, red deer, adder and common lizard are also found on PDNP moorlands.
