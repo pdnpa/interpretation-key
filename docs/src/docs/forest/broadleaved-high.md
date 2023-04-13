@@ -1,11 +1,11 @@
 ---
-autoTitle: false
+autoTitle: 'false'
 ---
 
 # C1 Broadleaved high forest
 
 ![broadleaf](./img/broadleaf.jpg)
-*Photo: Chris Gilbert*
+*Photo: Woodland Trust*
 
 ## Definition of landscape category
 
