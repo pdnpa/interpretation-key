@@ -1,11 +1,11 @@
 ---
-autoTitle: false
+autoTitle: 'false'
 ---
 
 # C5 Clear felled / new plantings in forest areas
 
-![felled](./img/felled.jpg)
-*Photo: National Trust*
+![felled](./img/felled.png)
+*Photo: Google maps*
 
 ## Definition of landscape category
 
