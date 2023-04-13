@@ -3,7 +3,7 @@ autoTitle: 'false'
 toc: 'false'
 ---
 
-# D1 Moorland: 
+# D1 Moorland: Upland heath (a) Upland Heath on blanket bog/peat soil (b)
 
 ![heath](./img/d1.png)
 *Photo: PDNPA*
