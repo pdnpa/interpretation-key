@@ -1,10 +1,10 @@
 ---
-autoTitle: false
+autoTitle: 'false'
 ---
 
 # D3 Bracken
 
-![broadleaf](./img/broadleaf.jpg)
+![bracken](./img/d3.png)
 *Photo: Chris Gilbert*
 
 ## Definition of landscape category
