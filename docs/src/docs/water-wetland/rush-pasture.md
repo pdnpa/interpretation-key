@@ -1,11 +1,11 @@
 ---
-autoTitle: false
+autoTitle: 'false'
 ---
 
 # F3 Wetland vegetation: wet grassland and rush pasture (d)
 
-
-*Photo: *
+![rush](./img/f3d.png)
+*Photo: PDNPA*
 
 ## Definition of landscape category
 
