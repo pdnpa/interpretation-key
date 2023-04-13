@@ -4,7 +4,7 @@ autoTitle: 'false'
 
 # C1 Broadleaved high forest
 
-![broadleaf](./img/broadleaf.jpg)
+![broadleaf](./img/c1.jpg)
 *Photo: Woodland Trust*
 
 ## Definition of landscape category
