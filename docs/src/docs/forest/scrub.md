@@ -1,5 +1,6 @@
 ---
 autoTitle: 'false'
+toc: 'false'
 ---
 
 # C4 Scrub
@@ -20,7 +21,7 @@ must be less than 3.5 m high although shrubs such as Blackthorn (Prunus spinosa)
 
 ## Aerial Definition
 
-![map](./img/map.jpg)
+![fig6](./img/fig6.png)
 
 * [Google photo sphere Hope Valley](https://goo.gl/maps/k7x5UGnMhxnboyw38) Looking West patches of green Gorse scrub seen on the hillside. 
 
