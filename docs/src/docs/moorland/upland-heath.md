@@ -5,7 +5,7 @@ autoTitle: 'false'
 # D1 Moorland: Upland heath (a) Upland Heath on blanket bog/peat soil (b)
 
 ![heath](./img/d1.png)
-*Photo: Chris Gilbert*
+*Photo: PDNPA*
 
 ## Definition of landscape category
 
