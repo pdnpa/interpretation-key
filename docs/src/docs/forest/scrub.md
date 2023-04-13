@@ -4,7 +4,7 @@ autoTitle: 'false'
 
 # C4 Scrub
 
-![scrub](./img/gorse-thicket.jpg)
+![scrub](./img/c4.png)
 *Photo: Woodlands.co.uk*
 
 ## Definition of landscape category
