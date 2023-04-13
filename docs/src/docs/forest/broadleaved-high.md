@@ -1,5 +1,6 @@
 ---
 autoTitle: 'false'
+toc: 'false'
 ---
 
 # C1 Broadleaved high forest
@@ -15,7 +16,7 @@ Grown from seed or planted seedlings and consisting of large, tall mostly decidu
 
 ## Aerial Definition
 
-![map](./img/map.jpg)
+![fig3](./img/fig3.png)
 
 * [Google photo sphere Millersdale Quarry](https://goo.gl/maps/LLR5qYkbKaQk7Gdf9) 
 
