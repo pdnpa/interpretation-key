@@ -1,11 +1,11 @@
 ---
-autoTitle: false
+autoTitle: 'false'
 ---
 
 # C2 Coniferous high forest
 
 ![coniferous](./img/coniferous.jpg)
-*Photo: Chris Gilbert*
+*Photo: Google Maps*
 
 ## Definition of landscape category
 
