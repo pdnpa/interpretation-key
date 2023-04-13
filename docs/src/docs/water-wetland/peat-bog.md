@@ -5,7 +5,7 @@ autoTitle: 'false'
 # F3 Wetland vegetation: Modified/active peat bog (a) 
 
 ![bog](./img/f3a.png)
-*Photo: Chris Gilbert*
+*Photo: PDNPA*
 
 ## Definition of landscape category
 
