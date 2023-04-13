@@ -1,10 +1,10 @@
 ---
-autoTitle: false
+autoTitle: 'false'
 ---
 
 # E2 Grassland: rough pasture (b)
 
-![broadleaf](./img/broadleaf.jpg)
+![rough](./img/e2b.png)
 *Photo: Chris Gilbert*
 
 ## Definition of landscape category
