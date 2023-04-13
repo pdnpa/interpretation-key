@@ -4,7 +4,7 @@ autoTitle: 'false'
 
 # C5 Clear felled / new plantings in forest areas
 
-![felled](./img/felled.png)
+![felled](./img/c5.png)
 *Photo: Google maps*
 
 ## Definition of landscape category
