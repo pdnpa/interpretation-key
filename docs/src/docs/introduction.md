@@ -1,3 +1,7 @@
+---
+autoTitle: 'false'
+---
+
 # Introduction
 
 ![hopevalley](./img/hopevalley.jpg)
@@ -5,10 +9,9 @@
 
 Land Cover are the physical elements occupying the earth's surface. This is important data for [Category 5](https://www.iucn.org/resources/publication/management-guidelines-iucn-category-v-protected-areas-protected) protected landscapes to monitor. Human activity, mostly for food production and forestry, is transforming landscapes. Today, one third of all land is degraded or degrading, which harms biodiversity and jeopardises essential ecosystem services such as carbon storage. Protected areas offer a solution. If effectively managed and fairly governed, such areas can safeguard nature and cultural resources, protect human health and well-being, provide sustainable livelihoods and so support sustainable development (IUCN).
 
-The last time land cover and land use were monitored to a high degree of accuracy and detail in UK National Parks was 1991. This study (seen below) assessed point, linear and polygon features across 50 types of landscape features.
+Survey, monitoring and evaluation is crucial to understanding the condition and management status (getting better, staying the same, getting worse) of any protected area, site, habitat or species. Due to restricted budgets and short-term priorities it is often the poor cousin to physical projects. Therefore, the last time land cover and land use were monitored to a high degree of accuracy and detail in UK National Parks was 1991. This study (seen below) assessed point, linear and polygon features across 50 types of landscape features.
 
 This is an interpretation key for the polygon features only which make up 38 definitions of Land Cover.
-
 
 ## Landscape Change in National Parks (CCP359)
 
