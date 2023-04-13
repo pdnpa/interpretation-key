@@ -1,10 +1,10 @@
 ---
-autoTitle: false
+autoTitle: 'false'
 ---
 
 # E2 Grassland: improved pasture (a)
 
-![broadleaf](./img/broadleaf.jpg)
+![improved](./img/e2a.png)
 *Photo: Chris Gilbert*
 
 ## Definition of landscape category
