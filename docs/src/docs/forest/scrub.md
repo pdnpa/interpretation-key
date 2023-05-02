@@ -5,7 +5,7 @@ toc: 'false'
 
 # C4 Scrub
 
-![scrub](./img/c4.png)
+!#scrub](./img/c4.png)
 *Photo: Woodlands.co.uk*
 
 ## Definition of landscape category
@@ -21,7 +21,7 @@ must be less than 3.5 m high although shrubs such as Blackthorn (Prunus spinosa)
 
 ## Aerial Definition
 
-![fig6](./img/fig6.png)
+!#fig6](./img/fig6.png)
 
 * [Google photo sphere Hope Valley](https://goo.gl/maps/k7x5UGnMhxnboyw38) Looking West patches of green Gorse scrub seen on the hillside. 
 

@@ -5,7 +5,7 @@ toc: 'false'
 
 # D2 Moorland: Upland grass moor (b) Upland grass moor on blanket bog/peat soil (d) 
 
-![acid-grassland](./img/d2.png)
+!#acid-grassland](./img/d2.png)
 *Photo: PDNPA*
 
 ## Definition of landscape category
@@ -17,7 +17,7 @@ Sub-categories are identified on the basis of **D2b Upland grass moor** which ma
 D2b and D2d are identified and selected by [Peaty Soils Location (England)](https://naturalengland-defra.opendata.arcgis.com/datasets/1e5a1cdb2ab64b1a94852fb982c42b52_0/explore?location=52.763272%2C-2.506216%2C8.29)
 
 ## Aerial Definition
-![fig9](./img/fig9.png)
+!#fig9](./img/fig9.png)
 
 * [Google photo sphere Errwood Reservoir](https://goo.gl/maps/vzTW5dfStQxpd9M36) D2 looking North mainly upland acid grassland but many other classes are present
 

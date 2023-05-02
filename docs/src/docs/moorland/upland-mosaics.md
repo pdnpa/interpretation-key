@@ -5,7 +5,7 @@ toc: 'false'
 
 # D6 Upland mosaics: Upland heath/grass moor mosaic (a) Upland Heath/Bracken (b) Upland heath/grass moor mosaic on blanket bog/peat soil (c)
 
-![mosaic](./img/d6.png)
+!#mosaic](./img/d6.png)
 *Photo: Chris Gilbert*
 
 ## Definition of landscape category
@@ -16,7 +16,7 @@ Three sub-categories are identified: **D6a Upland mosaics: Upland heath/grass mo
 
 ## Aerial Definition
 
-![fig11](./img/fig11.png)
+!#fig11](./img/fig11.png)
 
 * [Google photo sphere Curbur Edge](https://goo.gl/maps/LLR5qYkbKaQk7Gdf9) D6a/c Looking East on Moorlands howing areas of heather of varying clump and within patch plot sizes intersected with upland acid grassland. D6b Looking West on the slope below the cliff edge Bracken died back to orange/bwon intersected with Heather.
 

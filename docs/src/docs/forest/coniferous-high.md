@@ -5,7 +5,7 @@ toc: 'false'
 
 # C2 Coniferous high forest
 
-![coniferous](./img/c2.png)
+!#coniferous](./img/c2.png)
 *Photo: Google Maps*
 
 ## Definition of landscape category
@@ -16,7 +16,7 @@ Coniferous high forest - Usually grown from planted seedlings consisting of larg
 
 ## Aerial definition of landscape category
 
-![fig4](./img/fig4.png)
+!#fig4](./img/fig4.png)
 
 * [Google photo sphere Macclesfield Forest](https://goo.gl/maps/JdXjgJih88fhdv1A6) 
 

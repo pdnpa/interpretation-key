@@ -10,7 +10,7 @@ Mixed high forest - Areas greater than 0.25 ha which are wider than 20m and have
 
 ## Aerial definition of landscape category
 
-![fig5](./img/fig5.png)
+!#fig5](./img/fig5.png)
 
 Mixed high forest is detected via post processing of C1 and C2 ... TBC... 
 
