@@ -23,7 +23,7 @@ Grown from seed or planted seedlings and consisting of large, tall mostly decidu
 
 ## In the Peak District
 
-These are the ancient, semi-natural woodlands and include the deciduous plantation woodland plantings which meet the criteria. They are found throughout the Peak District both natural and semi natural plantations. 
+These are the ancient, semi-natural woodlands and include the deciduous plantation woodland plantings which meet the criteria. They are found throughout the Peak District both natural and semi natural plantations.
 
 ## Useful links
 
