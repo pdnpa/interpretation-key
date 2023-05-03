@@ -19,7 +19,7 @@ Grown from seed or planted seedlings and consisting of large, tall mostly decidu
 
 ![](https://report-publishing/media/interpretation-key/fig3.png)
 
-*   [Google photo sphere Millersdale Quarry](https://goo.gl/maps/LLR5qYkbKaQk7Gdf9)
+*   [Google photo sphere Millersdale Quarry](https://goo.gl/maps/CVKYMKLq24q7uEw67)
 
 ## In the Peak District
 
