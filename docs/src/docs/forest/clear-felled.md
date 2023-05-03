@@ -5,8 +5,9 @@ toc: 'false'
 
 # C5 Clear felled / new plantings in forest areas
 
-!#felled](./img/c5.png)
-*Photo: Google maps*
+![](https://report-publishing/media/interpretation-key/c5.png)
+
+_Photo: Google maps_
 
 ## Definition of landscape category
 
@@ -14,9 +15,9 @@ Clear felled/new plantings in forest areas - Areas with hard boundaries, general
 
 ## Aerial Definition
 
-!#fig7](./img/fig7.png)
+![](https://report-publishing/media/interpretation-key/fig7.png)
 
-* [Google photo sphere Upper Derwent](https://goo.gl/maps/k7x5UGnMhxnboyw38) Looking West a clear patch of newly planted High Forest seen on the hillside. 
+*   [Google photo sphere Upper Derwent](https://goo.gl/maps/k7x5UGnMhxnboyw38) Looking West a clear patch of newly planted High Forest seen on the hillside.
 
 ## In the Peak District
 
