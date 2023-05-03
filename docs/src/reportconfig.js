@@ -113,9 +113,9 @@ const reportConfig =
                     },
                     {
                         "type": "html",
-                        "text": "Eroded Peat &amp; Soils",
-                        "path": "/docs/moorland/eroded-peat-amp-soils",
-                        "title": "Eroded Peat &amp; Soils",
+                        "text": "Eroded Peat",
+                        "path": "/docs/moorland/eroded-peat",
+                        "title": "Eroded Peat",
                         "pdnpa_id": "e7a02a01-a2c5-4d42-b694-67a235daf3a7",
                         "pdnpa_parent": "ba825282-db86-407f-b8a2-0a345357051d",
                         "pdnpa_is_folder": 0
