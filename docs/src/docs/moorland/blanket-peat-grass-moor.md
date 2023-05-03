@@ -23,6 +23,8 @@ D2b and D2d are identified and selected by [Peaty Soils Location (England)](http
 
 *   [Google photo sphere Errwood Reservoir](https://goo.gl/maps/vzTW5dfStQxpd9M36) D2 looking North mainly upland acid grassland but many other classes are present
 
+<iframe style="border: 0;" src="https://www.google.com/maps/embed?pb=!4v1683133542221!6m8!1m7!1sCAoSLEFGMVFpcE14WExkRnhlUEx4WURqNi1DRHBKSVVsNHFrcFpJZ1RTc2ZUaVRW!2m2!1d53.274597!2d-1.955734!3f37.34!4f-44.4!5f0.8397475938514558" width="960" height="600" allowfullscreen="allowfullscreen" loading="lazy"></iframe>
+
 ## In the Peak District
 
 Upland acid grassland (D2) are, as with all D classes, common plagioclimax communities in the PDNP. Habitats that include a wide range of grassland types within them often forming patchy/fragmented mosaics with other wet/dry acid vegetation communities and scrub. It includes upland acid grassland (unenclosed) and lowland acid grassland (enclosed) often forming a continuum with acid influenced E2b rough pasture and F3d wet grassland and rush pasture. Along with these extensive upland acid grassland fringes D2 is a component of extended mosaics with all of the heathland and blanket bog vegetation classes in the PDNP and is found on nutrient poor soils. These are either wet, D2d, or free draining, D2b, with an acidic pH range of 4 to 5.5. D2b occurs on top of insoluble rocks or superficial deposits such as sands, gravels and thin peat. In the PDNP, these conditions are often found on the clough (valley) sides or below the edges of many of the heathlands and blanket bogs. D2d is analogous with grass and sedge dominated blanket bog.
