@@ -19,7 +19,7 @@ E2 Grassland - Areas which show evidence of being enclosed for stock control pur
 
 ![](https://report-publishing/media/interpretation-key/fig13.png)
 
-*   [Google photo sphere](https://goo.gl/maps/Dy239Bc2VAn9D5CH9)
+*   [Google photo sphere](https://goo.gl/maps/Dy239Bc2VAn9D5CH9) 360 views of Improved grassland beyond the boundary of the village
 
 ## In the Peak District
 
