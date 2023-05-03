@@ -19,7 +19,9 @@ E2 Grassland - Areas which show evidence of being enclosed for stock control pur
 
 ![](https://report-publishing/media/interpretation-key/fig14.png)
 
-*   [Google photo sphere Stoney Middleton](https://goo.gl/maps/FMZgZzHGakCBLSUd7) Looking South East the steeper slope shows rougher grassland with more species diversity and longer stems of grass. The area is 'less managed'.
+*   [Google photo sphere Stoney Middleton](https://goo.gl/maps/FswiFTdtGsmSPe5J9) Looking South East the steeper slope shows rougher grassland with more species diversity and longer stems of grass. The area is 'less managed'.
+
+<iframe style="border: 0;" src="https://www.google.com/maps/embed?pb=!4v1683134027639!6m8!1m7!1sCAoSLEFGMVFpcE1KaWxjTWkyUEFRQnBHRFNjYlJTZXd1MVMwdUZuT21ZckxCQ0oy!2m2!1d53.27225869999999!2d-1.7065655!3f151.92823798130362!4f-22.156985304929407!5f0.8082170992969904" width="960" height="600" allowfullscreen="allowfullscreen" loading="lazy"></iframe>
 
 ## In the Peak District
 
