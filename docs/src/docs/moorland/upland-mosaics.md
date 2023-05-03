@@ -19,7 +19,9 @@ Three sub-categories are identified: **D6a Upland mosaics: Upland heath/grass mo
 
 ![](https://report-publishing/media/interpretation-key/fig11.png)
 
-*   [Google photo sphere Curbur Edge](https://goo.gl/maps/LLR5qYkbKaQk7Gdf9) D6a/c Looking East on Moorlands howing areas of heather of varying clump and within patch plot sizes intersected with upland acid grassland. D6b Looking West on the slope below the cliff edge Bracken died back to orange/bwon intersected with Heather.
+*   [Google photo sphere Curbur Edge](https://goo.gl/maps/RKd5RAvsj6gZLb3J7) D6a/c Looking East on Moorlands howing areas of heather of varying clump and within patch plot sizes intersected with upland acid grassland. D6b Looking West on the slope below the cliff edge Bracken died back to orange/bwon intersected with Heather.
+
+<iframe style="border: 0;" src="https://www.google.com/maps/embed?pb=!4v1683133881879!6m8!1m7!1sCAoSLEFGMVFpcE9RaGxLUUxIanM5R2diWS1majdwSFJneENuQnZJRWdWb1JpaEE5!2m2!1d53.27468320000001!2d-1.611619!3f84.46472599505043!4f-24.99925964006843!5f0.7820865974627469" width="960" height="600" allowfullscreen="allowfullscreen" loading="lazy"></iframe>
 
 ## In the Peak District
 
