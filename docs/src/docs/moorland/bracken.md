@@ -19,8 +19,13 @@ An invasive species, characteristically found on steep slopes extending along va
 
 ![](https://report-publishing/media/interpretation-key/fig10.png)
 
-*   [Google photo sphere Bamford Edge](https://goo.gl/maps/MwT4bNXzyECD5gSF7) Showing bracken is summer with mature fronds
-*   [Google photo sphere Three Shires Head](https://goo.gl/maps/MwT4bNXzyECD5gSF7) Showing bracken in winter died back to orange/brown
+*   [Google photo sphere Bamford Edge](https://goo.gl/maps/a7ExkfbBDeGYrNh16) Showing bracken is summer with mature fronds
+
+<iframe style="border: 0;" src="https://www.google.com/maps/embed?pb=!4v1683133677963!6m8!1m7!1sCAoSLEFGMVFpcE83U0N1ZHpEQnEzOVN6azNfcE42MVpseFlQSjc1S3VHZ2dvb0dM!2m2!1d53.36087490000001!2d-1.6909095!3f274.19!4f-49.43!5f0.7820865974627469" width="960" height="600" allowfullscreen="allowfullscreen" loading="lazy"></iframe>
+
+*   [Google photo sphere Three Shires Head](https://goo.gl/maps/oLajAakbWnhbnqCW8) Showing bracken in winter died back to orange/brown
+
+<iframe style="border: 0;" src="https://www.google.com/maps/embed?pb=!4v1683133717167!6m8!1m7!1sCAoSLEFGMVFpcE5PNENNSWZYMkgzckJ3dm9kcDBqM2E4bDhCMm51T1dweFhieV9h!2m2!1d53.2140132!2d-1.9872725!3f114.53112071813256!4f-33.565525426197865!5f0.7820865974627469" width="960" height="600" allowfullscreen="allowfullscreen" loading="lazy"></iframe>
 
 ## In the Peak District
 
