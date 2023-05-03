@@ -19,6 +19,8 @@ Clear felled/new plantings in forest areas - Areas with hard boundaries, general
 
 *   [Google photo sphere Upper Derwent](https://goo.gl/maps/k7x5UGnMhxnboyw38) Looking West a clear patch of newly planted High Forest seen on the hillside.
 
+<iframe style="border: 0;" src="https://www.google.com/maps/embed?pb=!4v1683133442160!6m8!1m7!1sCAoSLEFGMVFpcE1lZU1qZ0JqbjJnTVZ4RXcxYzNfMVJ5VWNwSjI3TmdWRElHaHYw!2m2!1d53.3920439!2d-1.7240133!3f270.18!4f-18.489999999999995!5f0.47053145945250824" width="960" height="600" allowfullscreen="allowfullscreen" loading="lazy"></iframe>
+
 ## In the Peak District
 
 Visible clear felling/new planting is evident in the larger forestry stands and in isolated locations elsewhere. Almost impossible to locate, for human observers and AI, are young plantings on agricultural and marginal land for ecosystem services (wildlife conservation/watershed management).
