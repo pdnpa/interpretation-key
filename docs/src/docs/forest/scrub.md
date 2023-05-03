@@ -24,7 +24,9 @@ must be less than 3.5 m high although shrubs such as Blackthorn (Prunus spinosa)
 
 ![](https://report-publishing/media/interpretation-key/fig6.png)
 
-*   [Google photo sphere Hope Valley](https://goo.gl/maps/k7x5UGnMhxnboyw38) Looking West patches of green Gorse scrub seen on the hillside.
+*   [Google photo sphere Hope Valley](https://goo.gl/maps/dTf4nFXS6KKsBs2Z6) Looking West patches of green Gorse scrub seen on the hillside.
+
+<iframe style="border: 0;" src="https://www.google.com/maps/embed?pb=!4v1683133378859!6m8!1m7!1sCAoSLEFGMVFpcFB2VE1mTjVyeDBiYXZKR2JSSkRBYVNTU0tlMHlxVFlLeVBqUE5C!2m2!1d53.3517723!2d-1.795205!3f310.9097304239132!4f-10.319635420883003!5f1.0807840175045604" width="960" height="600" allowfullscreen="allowfullscreen" loading="lazy"></iframe>
 
 ## In the Peak District
 
