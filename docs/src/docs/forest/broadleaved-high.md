@@ -19,7 +19,9 @@ Grown from seed or planted seedlings and consisting of large, tall mostly decidu
 
 ![](https://report-publishing/media/interpretation-key/fig3.png)
 
-*   [Google photo sphere Millersdale Quarry](https://goo.gl/maps/CVKYMKLq24q7uEw67)
+*   [Google photo sphere Millersdale Quarry](https://goo.gl/maps/CVKYMKLq24q7uEw67) Example of broadleaf trees in late autumn
+
+<iframe style="border: 0;" src="https://www.google.com/maps/embed?pb=!4v1683132801163!6m8!1m7!1sCAoSLEFGMVFpcFBzSFZfNEFVWkhDQzAzVDFyeEFYX2JZdDhfYldOV0U5ZVFtcnRT!2m2!1d53.2560761!2d-1.7965235!3f192.39054685286374!4f-16.86598790165324!5f0.7820865974627469" width="960" height="600" allowfullscreen="allowfullscreen" loading="lazy"></iframe>
 
 ## In the Peak District
 
