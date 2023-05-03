@@ -5,26 +5,26 @@ toc: 'false'
 
 # C4 Scrub
 
-!#scrub](./img/c4.png)
-*Photo: Woodlands.co.uk*
+![](https://report-publishing/media/interpretation-key/c4.png)
+
+_Photo: Woodlands.co.uk_
 
 ## Definition of landscape category
 
 Areas with diffused boundaries with less than 2O% cover by area of mature timber species with a rough understory of shrubs and grasses. Trees such as;
 
-* Birch (Betula spp)
-* Alder Alnus glutinosa)
-* Willow (Salix spp)
-* Hazel (Corylus avellana)
+*   Birch (Betula spp)
+*   Alder Alnus glutinosa)
+*   Willow (Salix spp)
+*   Hazel (Corylus avellana)
 
 must be less than 3.5 m high although shrubs such as Blackthorn (Prunus spinosa) and Hawthorn (Crataegus spp) may be higher.
 
 ## Aerial Definition
 
-!#fig6](./img/fig6.png)
+![](https://report-publishing/media/interpretation-key/fig6.png)
 
-* [Google photo sphere Hope Valley](https://goo.gl/maps/k7x5UGnMhxnboyw38) Looking West patches of green Gorse scrub seen on the hillside. 
-
+*   [Google photo sphere Hope Valley](https://goo.gl/maps/k7x5UGnMhxnboyw38) Looking West patches of green Gorse scrub seen on the hillside.
 
 ## In the Peak District
 
@@ -34,4 +34,4 @@ Much of the scrub in the Peak District is Gorse as can be seen by the dark green
 
 ## Useful links
 
-* [Wildlife Trust: Scrub](https://www.suffolkwildlifetrust.org/conservationadvice/meadows-and-grassland/grassland-and-scrub)
+*   [Wildlife Trust: Scrub](https://www.suffolkwildlifetrust.org/conservationadvice/meadows-and-grassland/grassland-and-scrub)
