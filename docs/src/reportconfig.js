@@ -277,16 +277,6 @@ const reportConfig =
                 "pdnpa_parent": 0,
                 "pdnpa_is_folder": 1,
                 "base_path": "/docs/noclass"
-            },
-            {
-                "type": "html",
-                "text": "Aerial Photography",
-                "title": "Aerial Photography",
-                "path": "/docs/aerial-photography",
-                "pdnpa_is_folder": 0,
-                "pdnpa_id": "7bcfbb57-88f7-4664-b9a1-dd9517f04db3",
-                "parent": 0,
-                "pdnpa_parent": 0
             }
         ]
     }
