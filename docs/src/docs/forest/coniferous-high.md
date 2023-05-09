@@ -17,6 +17,8 @@ Coniferous high forest - Usually grown from planted seedlings consisting of larg
 
 ## Aerial definition of landscape category
 
+![](https://report-publishing/media/interpretation-key/fig_4.png)
+
 *   [Google photo sphere Macclesfield Forest](https://goo.gl/maps/JdXjgJih88fhdv1A6)
 
 ## In the Peak District
