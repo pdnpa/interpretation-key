@@ -15,6 +15,8 @@ Broadleaved high forest - Areas greater than 0.25 ha, which are wider than 2Om a
 
 Grown from seed or planted seedlings and consisting of large, tall mostly deciduous, broadleaved, mature trees with a closed canopy. This category includes ‘ancient’ semi-natural woodlands.
 
+For this assessment no minimum mapping unit is applied. 
+
 ## Aerial Definition
 
 ![](https://report-publishing/media/interpretation-key/fig3.png)
