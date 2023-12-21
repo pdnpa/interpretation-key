@@ -20,6 +20,8 @@ Areas with diffused boundaries with less than 2O% cover by area of mature timber
 
 must be less than 3.5 m high although shrubs such as Blackthorn (Prunus spinosa) and Hawthorn (Crataegus spp) may be higher.
 
+For this assessment no minimum mapping unit is applied.
+
 ## Aerial Definition
 
 ![](https://report-publishing/media/interpretation-key/fig6.png)
