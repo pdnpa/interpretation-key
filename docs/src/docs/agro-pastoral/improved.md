@@ -5,7 +5,7 @@ toc: 'false'
 
 # E2 Grassland: improved pasture (a)
 
-![](https://report-publishing/media/interpretation-key/e2a.png)
+![](https://reports.peakdistrict.gov.uk/media/interpretation-key/e2a.png)
 
 _Photo: Chris Gilbert_
 
@@ -17,7 +17,7 @@ E2 Grassland - Areas which show evidence of being enclosed for stock control pur
 
 ## Aerial Definition
 
-![](https://report-publishing/media/interpretation-key/fig13.png)
+![](https://reports.peakdistrict.gov.uk/media/interpretation-key/fig13.png)
 
 *   [Google photo sphere Monyash](https://goo.gl/maps/Dy239Bc2VAn9D5CH9) 360 views of Improved grassland beyond the boundary of the village
 

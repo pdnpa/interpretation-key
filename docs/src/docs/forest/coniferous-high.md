@@ -5,7 +5,7 @@ toc: 'false'
 
 # C2 Coniferous high forest
 
-![](https://report-publishing/media/interpretation-key/c2.png)
+![](https://reports.peakdistrict.gov.uk/media/interpretation-key/c2.png)
 
 _Photo: Google Maps_
 
@@ -17,7 +17,7 @@ Coniferous high forest - Usually grown from planted seedlings consisting of larg
 
 ## Aerial definition of landscape category
 
-![](https://report-publishing/media/interpretation-key/fig_4.png)
+![](https://reports.peakdistrict.gov.uk/media/interpretation-key/fig_4.png)
 
 *   [Google photo sphere Macclesfield Forest](https://goo.gl/maps/JdXjgJih88fhdv1A6)
 

@@ -5,7 +5,7 @@ toc: 'false'
 
 # C5 Clear felled / new plantings in forest areas
 
-![](https://report-publishing/media/interpretation-key/c5.png)
+![](https://reports.peakdistrict.gov.uk/media/interpretation-key/c5.png)
 
 _Photo: Google maps_
 
@@ -15,7 +15,7 @@ Clear felled/new plantings in forest areas - Areas with hard boundaries, general
 
 ## Aerial Definition
 
-![](https://report-publishing/media/interpretation-key/fig_7.png)
+![](https://reports.peakdistrict.gov.uk/media/interpretation-key/fig_7.png)
 
 *   [Google photo sphere Upper Derwent](https://goo.gl/maps/k7x5UGnMhxnboyw38) Looking West a clear patch of newly planted High Forest seen on the hillside.
 

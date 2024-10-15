@@ -5,7 +5,7 @@ toc: 'false'
 
 # D6 Upland mosaics: Upland heath/grass moor mosaic (a) Upland Heath/Bracken (b) Upland heath/grass moor mosaic on blanket bog/peat soil (c)
 
-![](https://report-publishing/media/interpretation-key/d6.png)
+![](https://reports.peakdistrict.gov.uk/media/interpretation-key/d6.png)
 
 _Photo: Chris Gilbert_
 
@@ -17,7 +17,7 @@ Three sub-categories are identified: **D6a Upland mosaics: Upland heath/grass mo
 
 ## Aerial Definition
 
-![](https://report-publishing/media/interpretation-key/fig11.png)
+![](https://reports.peakdistrict.gov.uk/media/interpretation-key/fig11.png)
 
 *   [Google photo sphere Curbur Edge](https://goo.gl/maps/RKd5RAvsj6gZLb3J7) D6a/c Looking East on Moorlands howing areas of heather of varying clump and within patch plot sizes intersected with upland acid grassland. D6b Looking West on the slope below the cliff edge Bracken died back to orange/bwon intersected with Heather.
 

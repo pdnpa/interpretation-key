@@ -5,7 +5,7 @@ toc: 'false'
 
 # F3 Wetland vegetation: Modified/active peat bog (a)
 
-![](https://report-publishing/media/interpretation-key/f3a.png)
+![](https://reports.peakdistrict.gov.uk/media/interpretation-key/f3a.png)
 
 _Photo: PDNPA_
 
@@ -19,7 +19,7 @@ F3 Wetland vegetation - Areas of vegetation which are controlled by the permanen
 
 ## Aerial Definition
 
-![](https://report-publishing/media/interpretation-key/fig15.png)
+![](https://reports.peakdistrict.gov.uk/media/interpretation-key/fig15.png)
 
 ## In the Peak District
 

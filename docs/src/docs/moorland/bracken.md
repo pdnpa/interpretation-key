@@ -5,7 +5,7 @@ toc: 'false'
 
 # D3 Bracken
 
-![](https://report-publishing/media/interpretation-key/d3.png)
+![](https://reports.peakdistrict.gov.uk/media/interpretation-key/d3.png)
 
 _Photo: Chris Gilbert_
 
@@ -17,7 +17,7 @@ An invasive species, characteristically found on steep slopes extending along va
 
 ## Aerial Definition
 
-![](https://report-publishing/media/interpretation-key/fig10.png)
+![](https://reports.peakdistrict.gov.uk/media/interpretation-key/fig10.png)
 
 *   [Google photo sphere Bamford Edge](https://goo.gl/maps/a7ExkfbBDeGYrNh16) Showing bracken is summer with mature fronds
 

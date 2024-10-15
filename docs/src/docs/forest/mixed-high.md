@@ -13,7 +13,7 @@ For this assessment no minimum mapping unit is applied.
 
 ## Aerial definition of landscape category
 
-![](https://report-publishing/media/interpretation-key/fig5.png)
+![](https://reports.peakdistrict.gov.uk/media/interpretation-key/fig5.png)
 
 Mixed high forest is detected via post processing of spatial association between predicted C1 and C2.
 

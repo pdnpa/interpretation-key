@@ -5,7 +5,7 @@ toc: 'false'
 
 # E2 Grassland: rough pasture (b)
 
-![](https://report-publishing/media/interpretation-key/e2b.png)
+![](https://reports.peakdistrict.gov.uk/media/interpretation-key/e2b.png)
 
 _Photo: Chris Gilbert_
 
@@ -17,7 +17,7 @@ E2 Grassland - Areas which show evidence of being enclosed for stock control pur
 
 ## Aerial Definition
 
-![](https://report-publishing/media/interpretation-key/fig14.png)
+![](https://reports.peakdistrict.gov.uk/media/interpretation-key/fig14.png)
 
 *   [Google photo sphere Stoney Middleton](https://goo.gl/maps/FswiFTdtGsmSPe5J9) Looking South East the steeper slope shows rougher grassland with more species diversity and longer stems of grass. The area is 'less managed'.
 

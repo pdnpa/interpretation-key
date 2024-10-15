@@ -5,7 +5,7 @@ toc: 'false'
 
 # D2 Moorland: Upland grass moor (b) Upland grass moor on blanket bog/peat soil (d)
 
-![](https://report-publishing/media/interpretation-key/d2.png)
+![](https://reports.peakdistrict.gov.uk/media/interpretation-key/d2.png)
 
 _Photo: PDNPA_
 
@@ -19,7 +19,7 @@ D2b and D2d are identified and selected by [Peaty Soils Location (England)](http
 
 ## Aerial Definition
 
-![](https://report-publishing/media/interpretation-key/fig9.png)
+![](https://reports.peakdistrict.gov.uk/media/interpretation-key/fig9.png)
 
 *   [Google photo sphere Errwood Reservoir](https://goo.gl/maps/vzTW5dfStQxpd9M36) D2 looking North mainly upland acid grassland but many other classes are present
 

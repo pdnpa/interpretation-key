@@ -5,7 +5,7 @@ toc: 'false'
 
 # C1 Broadleaved high forest
 
-![](https://report-publishing/media/interpretation-key/c1.png)
+![](https://reports.peakdistrict.gov.uk/media/interpretation-key/c1.png)
 
 _Photo: Woodland Trust_
 
@@ -19,7 +19,7 @@ For this assessment no minimum mapping unit is applied.
 
 ## Aerial Definition
 
-![](https://report-publishing/media/interpretation-key/fig3.png)
+![](https://reports.peakdistrict.gov.uk/media/interpretation-key/fig3.png)
 
 *   [Google photo sphere Millersdale Quarry](https://goo.gl/maps/CVKYMKLq24q7uEw67) Example of broadleaf trees in late autumn
 

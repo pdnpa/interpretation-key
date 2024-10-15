@@ -5,7 +5,7 @@ toc: 'false'
 
 # D7 Eroded area: peat (a) mineral soils (b)
 
-![](https://report-publishing/media/interpretation-key/d7.png)
+![](https://reports.peakdistrict.gov.uk/media/interpretation-key/d7.png)
 
 _Photo: Chris Gilbert_
 
@@ -15,7 +15,7 @@ D7 Eroded areas - Areas of **eroding peat (D7a)** in upland situations where bar
 
 ## Aerial Definition
 
-![](https://report-publishing/media/interpretation-key/fig12.png)
+![](https://reports.peakdistrict.gov.uk/media/interpretation-key/fig12.png)
 
 ## In the Peak District
 

@@ -5,7 +5,7 @@ toc: 'false'
 
 # F3 Wetland vegetation: wet grassland and rush pasture (d)
 
-![](https://report-publishing/media/interpretation-key/f3d.png)
+![](https://reports.peakdistrict.gov.uk/media/interpretation-key/f3d.png)
 
 _Photo: PDNPA_
 
@@ -17,7 +17,7 @@ F3 Wetland vegetation - Areas of vegetation which are controlled by the permanen
 
 ## Aerial Definition
 
-![](https://report-publishing/media/interpretation-key/fig16.png)
+![](https://reports.peakdistrict.gov.uk/media/interpretation-key/fig16.png)
 
 *   [Google photo sphere Mam Tor](https://goo.gl/maps/Keo9Eu7tB3Bvfi3a7) Large areas of rush pasture and purple moor grass. Can often be found and apprears 'wetter' and more dense in scrapes and gullies in the landscape.
 

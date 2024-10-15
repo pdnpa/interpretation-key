@@ -5,7 +5,7 @@ toc: 'false'
 
 # C4 Scrub
 
-![](https://report-publishing/media/interpretation-key/c4.png)
+![](https://reports.peakdistrict.gov.uk/media/interpretation-key/c4.png)
 
 _Photo: Woodlands.co.uk_
 
@@ -24,7 +24,7 @@ For this assessment no minimum mapping unit is applied.
 
 ## Aerial Definition
 
-![](https://report-publishing/media/interpretation-key/fig6.png)
+![](https://reports.peakdistrict.gov.uk/media/interpretation-key/fig6.png)
 
 *   [Google photo sphere Hope Valley](https://goo.gl/maps/dTf4nFXS6KKsBs2Z6) Looking West patches of green Gorse scrub seen on the hillside.
 
